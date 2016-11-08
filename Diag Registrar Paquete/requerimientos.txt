@@ -1,0 +1,4 @@
+Parte del Modulo EnvioPaquete
+El Cliente Emisor solicita Registrar Paquete
+Entonces el Cliente Emisor llena un formulario para solicitar el envio tambien llamado FormularioEnvio Asi se registran los datos.
+Luego El Empleado asigna un Codigo QR al Paquete recien registrado.
